@@ -5,3 +5,4 @@ DDDDDDDDDDDDDDDDDDDDDDDDDD
 EEEEEEEEEEEEEEEEEEEEEEEEEE
 这修改的是克隆下来的momo.txt文件
 pull pull pull pull pull pull
+测试使用 ssh 免密提交
